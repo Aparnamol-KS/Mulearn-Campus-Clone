@@ -1,0 +1,80 @@
+html{
+    font-family:   'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+.navbar li:hover{
+    color:#F78C40;
+}
+.navbar{
+    display:flex;
+    flex-direction: row;
+    padding:10px;
+    justify-content: space-between;
+    height: 125px;
+}
+.list li{
+    font-size: 16px;
+    font-weight: 400;
+    display:inline;
+    margin-left:20px;
+}
+.button-style{
+    background-color:#F78C40;
+    padding:15px;
+    color:white;
+    border:none;
+    border-radius:5px;
+    font-size:14px;
+    font-weight: 100;
+
+}
+.chaptership-img img{
+    width:50%;
+    height:50%;
+}
+.level-img img{
+    width: 40%;
+    height: 40%;;
+}
+.level-head{
+    border: 1px solid black;
+    margin:50px 50px;
+    text-align:center;
+}
+
+.level0-info, .level1-info, .level2-info, .level3-info, .level4-info, .level5-info, .logo-box{
+    border:1px solid black;
+}
+
+.steps{
+    background-color: #F78C40;
+}
+
+.steps img{
+    width: 50px;
+    height: 50px;
+}
+.campus-head button, .campus-head h2{
+    display: inline;
+}
+.campus-button{
+    background-color: #F78C40;
+    color:white;
+    border-radius: 100%;
+    border:none;
+    width: 30px;
+    height: 30px;
+}
+
+.final-block{
+    background-color: #3A3A3A;
+    color:white;
+}
+
+.socials img{
+    width:20px;
+    height:20px;
+}
+.mu-white{
+    width:100px;
+}
